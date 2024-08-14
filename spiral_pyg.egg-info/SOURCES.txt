@@ -1,0 +1,13 @@
+README.md
+setup.py
+spiral_pyg/CoordAlignment.py
+spiral_pyg/__init__.py
+spiral_pyg/main.py
+spiral_pyg/pyG_layers.py
+spiral_pyg/utils.py
+spiral_pyg.egg-info/PKG-INFO
+spiral_pyg.egg-info/SOURCES.txt
+spiral_pyg.egg-info/dependency_links.txt
+spiral_pyg.egg-info/not-zip-safe
+spiral_pyg.egg-info/requires.txt
+spiral_pyg.egg-info/top_level.txt

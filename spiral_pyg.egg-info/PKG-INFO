@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: spiral_pyg
+Version: 1.0
+Summary: Integrating and aligning spatially resolved transcriptomics data across different experiments, conditions, and technologies.
+Home-page: https://github.com/guott15/SPIRAL
+Author: Tiantian Guo
+Author-email: guott18@mails.tsinghua.edu.cn
+License: MIT
+Requires-Python: >=3.9
+Requires-Dist: requests
+
+# SPIRAL_pyG
